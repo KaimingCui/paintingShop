@@ -7,6 +7,8 @@ Three-tier architecture (Dao, Service,JSP) is implemented. This project is a sim
 Use servlet as controller and the Dao layer uses JDBC to do CRUD operations of database. Click on login button will allow you to login the management system.
 A default account has been set with username: aaa and password:123.
 
+  Servlet as controllers, JDBC is used to do CRUD, jsp/jstl is used to display pages.
+
 ##Environment&techs
 * JAVA JDK 10
 * mysql 8.0.19 & jdbc
