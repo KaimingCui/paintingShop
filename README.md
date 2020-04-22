@@ -16,5 +16,10 @@ A default account has been set with username: aaa and password:123.
 * common-fileupload
 
 ##Show result
-![front]()
-
+![front](https://github.com/KaimingCui/paintingShop/blob/master/1.png)  
+![front](https://github.com/KaimingCui/paintingShop/blob/master/2.png)  
+![BMS](https://github.com/KaimingCui/paintingShop/blob/master/3.png)  
+![BMS](https://github.com/KaimingCui/paintingShop/blob/master/4.png)  
+![BMS](https://github.com/KaimingCui/paintingShop/blob/master/5.png)  
+![BMS](https://github.com/KaimingCui/paintingShop/blob/master/6.png)  
+![BMS](https://github.com/KaimingCui/paintingShop/blob/master/7.png)  
